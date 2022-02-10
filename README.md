@@ -1,0 +1,2 @@
+# WaveformMixer_SoundIncluded
+A waveform mixer, that generates different waveforms using the Audio System Design Tool for Teensy Audio Library. The sounds are played through a Teensy 4.0 and an audio shield. At the same time the waveforms are displayed on a OLED (128x64). The waveforms frequency can be adjusted both visually and audio wise. The mixer works in unison with a breadboard consisting of buttons, potentiometers, OLED and the Teensy + Audio Shield.
